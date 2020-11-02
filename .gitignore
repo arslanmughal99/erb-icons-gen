@@ -1,0 +1,12 @@
+# node
+node_modules/
+
+# test folders
+resources/
+
+# yarn 
+yarn-error.log
+yarn.lock
+
+# Compiled output
+**.js
